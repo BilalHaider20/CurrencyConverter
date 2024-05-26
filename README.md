@@ -43,4 +43,3 @@ This project is licensed under the [MIT License](https://github.com/BilalHaider2
 For any inquiries or questions, feel free to reach out to the project owner, Abdulmehad, at haiderbilal306@gmail.com.
 
 
-\
